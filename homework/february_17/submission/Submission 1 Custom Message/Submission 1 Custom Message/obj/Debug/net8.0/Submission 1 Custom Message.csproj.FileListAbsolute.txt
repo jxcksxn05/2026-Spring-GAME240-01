@@ -1,0 +1,15 @@
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/bin/Debug/net8.0/Submission 1 Custom Message
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/bin/Debug/net8.0/Submission 1 Custom Message.deps.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/bin/Debug/net8.0/Submission 1 Custom Message.runtimeconfig.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/bin/Debug/net8.0/Submission 1 Custom Message.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/bin/Debug/net8.0/Submission 1 Custom Message.pdb
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.AssemblyInfoInputs.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.AssemblyInfo.cs
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.csproj.CoreCompileInputs.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.sourcelink.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/refint/Submission 1 Custom Message.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.pdb
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/Submission 1 Custom Message.genruntimeconfig.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/submission/Submission 1 Custom Message/Submission 1 Custom Message/obj/Debug/net8.0/ref/Submission 1 Custom Message.dll
