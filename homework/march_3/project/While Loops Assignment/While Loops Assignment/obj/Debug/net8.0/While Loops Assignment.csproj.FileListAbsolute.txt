@@ -1,0 +1,15 @@
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/bin/Debug/net8.0/While Loops Assignment
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/bin/Debug/net8.0/While Loops Assignment.deps.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/bin/Debug/net8.0/While Loops Assignment.runtimeconfig.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/bin/Debug/net8.0/While Loops Assignment.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/bin/Debug/net8.0/While Loops Assignment.pdb
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.AssemblyInfoInputs.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.AssemblyInfo.cs
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.csproj.CoreCompileInputs.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.sourcelink.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/refint/While Loops Assignment.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.pdb
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/While Loops Assignment.genruntimeconfig.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/While Loops Assignment/While Loops Assignment/obj/Debug/net8.0/ref/While Loops Assignment.dll
