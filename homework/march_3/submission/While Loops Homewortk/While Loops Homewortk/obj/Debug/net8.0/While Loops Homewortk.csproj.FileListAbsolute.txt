@@ -1,0 +1,15 @@
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/bin/Debug/net8.0/While Loops Homewortk
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/bin/Debug/net8.0/While Loops Homewortk.deps.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/bin/Debug/net8.0/While Loops Homewortk.runtimeconfig.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/bin/Debug/net8.0/While Loops Homewortk.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/bin/Debug/net8.0/While Loops Homewortk.pdb
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.AssemblyInfoInputs.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.AssemblyInfo.cs
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.csproj.CoreCompileInputs.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.sourcelink.json
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/refint/While Loops Homewortk.dll
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.pdb
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/While Loops Homewortk.genruntimeconfig.cache
+/Users/jacksondavis/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/submission/While Loops Homewortk/While Loops Homewortk/obj/Debug/net8.0/ref/While Loops Homewortk.dll

@@ -3,6 +3,8 @@
 
 //Welcome message and While Loop Menu
 Console.WriteLine("> Greetings. Please select a While Loop you'd like to observe:");
+
+// Menu Options
 Console.WriteLine("[1] 1-5");
 Console.WriteLine("[2] 100-150");
 Console.WriteLine("[3] 0-100 Evens");
@@ -14,6 +16,8 @@ Console.WriteLine("[8] True and False");
 Console.WriteLine("[9] 1-20 Number is Odd or Even");
 Console.WriteLine("[10] Poem");
 Console.WriteLine("[11] Fizz Buzz");
+
+// Prompt Message
 Console.WriteLine("> Select a loop using it's [number]!");
 
 //Prompt User 
